@@ -7,7 +7,9 @@ class Blob{
       this.Visiblity = 255;
       
     }
-
+ 
+    
+    
   display(){
      //console.log(this.body.speed);
    // if(this.body.speed < 3){
